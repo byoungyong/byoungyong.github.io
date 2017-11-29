@@ -1,14 +1,14 @@
-title:             Clean Blog
-email:             your-email@example.com
-description:       A Blog Theme by Start Bootstrap
-author:            Start Bootstrap
+title:             한 개발자의 기술 블로그
+email:             elaijh84@daum.net
+description:       매일 공부한 것을 기록하는 습관을 만들기 위한 블로그입니다. 
+author:            BYC
 baseurl:           
 url:               "http://blackrockdigital.github.io"
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username:  
+github_username:   byoungyong
+facebook_username: 
 
 # Build settings
 markdown:          kramdown
